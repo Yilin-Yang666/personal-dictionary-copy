@@ -442,11 +442,13 @@ blockquote {
 .entry-block p,
 .entry-block li {
   line-height: 1;
+  margin-bottom: 6px;
 }
 
 .entry-block ul,
 .entry-block ol {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .entry-card ul {
