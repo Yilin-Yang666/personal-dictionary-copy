@@ -439,6 +439,16 @@ blockquote {
   color: var(--muted);
 }
 
+.entry-block p,
+.entry-block li {
+  line-height: 1.28;
+}
+
+.entry-block ul,
+.entry-block ol {
+  margin-top: 0;
+}
+
 .entry-card ul {
   margin: 0;
   padding-left: 22px;
