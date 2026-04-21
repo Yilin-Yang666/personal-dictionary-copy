@@ -441,7 +441,7 @@ blockquote {
 
 .entry-block p,
 .entry-block li {
-  line-height: 1.28;
+  line-height: 1;
 }
 
 .entry-block ul,
