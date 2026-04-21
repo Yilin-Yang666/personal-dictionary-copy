@@ -207,7 +207,8 @@ a {
   margin-bottom: 14px;
   font-size: var(--title-size);
   line-height: 1.08;
-  max-width: 14ch;
+  max-width: none;
+  white-space: nowrap;
 }
 
 .intro-card p,
@@ -731,6 +732,7 @@ body.js-enabled .is-visible {
 
   .intro-card h2 {
     font-size: 2rem;
+    white-space: normal;
   }
 
   .entry-card h2 {
