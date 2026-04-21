@@ -468,6 +468,15 @@ blockquote {
   border-top: 1px solid var(--line);
 }
 
+.entry-figure {
+  display: block;
+  width: min(100%, 720px);
+  margin: 6px auto 0;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: #fff;
+}
+
 blockquote {
   margin: 16px 0 0;
   padding: 16px 18px;
